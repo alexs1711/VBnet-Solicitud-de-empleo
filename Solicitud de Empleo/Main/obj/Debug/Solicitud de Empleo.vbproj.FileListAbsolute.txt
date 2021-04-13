@@ -1,0 +1,24 @@
+E:\Solicitud de Empleo\Solicitud de Empleo\obj\Debug\Solicitud de Empleo.vbprojAssemblyReference.cache
+E:\Solicitud de Empleo\Solicitud de Empleo\obj\Debug\Solicitud de Empleo.vbproj.GenerateResource.cache
+E:\Solicitud de Empleo\Solicitud de Empleo\obj\Debug\Solicitud de Empleo.vbproj.CoreCompileInputs.cache
+E:\Solicitud de Empleo\Solicitud de Empleo\bin\Debug\Solicitud de Empleo.exe.config
+E:\Solicitud de Empleo\Solicitud de Empleo\bin\Debug\Solicitud de Empleo.exe
+E:\Solicitud de Empleo\Solicitud de Empleo\bin\Debug\Solicitud de Empleo.pdb
+E:\Solicitud de Empleo\Solicitud de Empleo\bin\Debug\Solicitud de Empleo.xml
+E:\Solicitud de Empleo\Solicitud de Empleo\obj\Debug\SolicitudDeEmpleo.Form1.resources
+E:\Solicitud de Empleo\Solicitud de Empleo\obj\Debug\SolicitudDeEmpleo.Resources.resources
+E:\Solicitud de Empleo\Solicitud de Empleo\obj\Debug\Solicitud de Empleo.exe
+E:\Solicitud de Empleo\Solicitud de Empleo\obj\Debug\Solicitud de Empleo.xml
+E:\Solicitud de Empleo\Solicitud de Empleo\obj\Debug\Solicitud de Empleo.pdb
+E:\Solicitud de Empleo\Main\bin\Debug\Solicitud de Empleo.exe.config
+E:\Solicitud de Empleo\Main\bin\Debug\Solicitud de Empleo.exe
+E:\Solicitud de Empleo\Main\bin\Debug\Solicitud de Empleo.pdb
+E:\Solicitud de Empleo\Main\bin\Debug\Solicitud de Empleo.xml
+E:\Solicitud de Empleo\Main\obj\Debug\Solicitud de Empleo.vbprojAssemblyReference.cache
+E:\Solicitud de Empleo\Main\obj\Debug\SolicitudDeEmpleo.Form1.resources
+E:\Solicitud de Empleo\Main\obj\Debug\SolicitudDeEmpleo.Resources.resources
+E:\Solicitud de Empleo\Main\obj\Debug\Solicitud de Empleo.vbproj.GenerateResource.cache
+E:\Solicitud de Empleo\Main\obj\Debug\Solicitud de Empleo.vbproj.CoreCompileInputs.cache
+E:\Solicitud de Empleo\Main\obj\Debug\Solicitud de Empleo.exe
+E:\Solicitud de Empleo\Main\obj\Debug\Solicitud de Empleo.xml
+E:\Solicitud de Empleo\Main\obj\Debug\Solicitud de Empleo.pdb
