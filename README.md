@@ -13,7 +13,9 @@ Respecto a la integración de la base de datos lo primero se debe configurar el 
  Dim conexion As New SqlConnection("server=Nombre_Ordenador(O nombre configurado para SSMS)\SQLEXPRESS01; database=BaseEmpleados(Nombre de la base de datos en SSMS) ; integrated security = true")
 ```
 
-El servidor a introducir debe ser el configurado cuando se ha instalado SSMS (SQL Server Management Studio) y la base de datos puede ser cualquiera.
+El servidor a introducir debe ser el configurado cuando se ha instalado SSMS (SQL Server Management Studio) y la base de datos puede ser cualquiera que deseeis.
+
+![image](https://user-images.githubusercontent.com/35575917/120360094-acbaa580-c308-11eb-8818-640d82faf6db.png)
 
 Para la creacion de la tabla dejo un fichero SQL, lo podeis abrir con SSMS y os generara la tabla automaticamente en la base de datos que seleccioneis.
 
